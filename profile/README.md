@@ -1,36 +1,54 @@
+<img src="banner.jpg" alt="Noklith card" width="100%">
+
 <div align="center">
-  <img src="logo.png" alt="Noklith" width="110">
 
-  <h1>Noklith</h1>
+<h1>
+  <img src="logo.png" alt="" width="44" align="center">&nbsp; Noklith
+</h1>
 
-  <p><strong>A virtual Visa card you refill from your own crypto wallet.</strong></p>
+**A virtual Visa card you refill from your own crypto wallet.**
 
-  <p>
-    <a href="https://noklith.com">Site</a> ·
-    <a href="https://noklith.com/dashboard.html">Dashboard</a>
-  </p>
+[Website](https://noklith.com) &nbsp;·&nbsp; [Dashboard](https://noklith.com/dashboard.html) &nbsp;·&nbsp; [Repository](https://github.com/noklith/noklith)
+
+<br>
+
+![iOS 17+](https://img.shields.io/badge/iOS-17%2B-9a6340?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-native-9a6340?style=flat-square&logo=swift&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-USDT%20%C2%B7%20USDC-6b4a33?style=flat-square&logo=polygon&logoColor=white)
+![BNB Smart Chain](https://img.shields.io/badge/BNB%20Chain-USDT%20%C2%B7%20USDC-6b4a33?style=flat-square&logo=binance&logoColor=white)
+![Visa](https://img.shields.io/badge/Visa-virtual%20card-3d2b1f?style=flat-square&logo=visa&logoColor=white)
+
 </div>
 
----
+<br>
 
-Sign in by signing a message in your wallet, refill the card with USDT or USDC on **Polygon** or
-**BNB Smart Chain**, and spend it anywhere Visa is accepted online. No password, no account form,
-and nobody ever asks for your private key.
+<img src="screens.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
 
-Cards are issued through **IZIPAY Business**. The balance in the app is read from the issuer, so
-purchases and refunds show up in your history on their own.
+<br>
 
-### Three decisions worth knowing
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**A refill lands once.** The server checks the transfer on chain (token, sender, recipient, amount,
-confirmations) before the card is loaded, and retries never credit it twice.
+### Your wallet is the login
+Connect any wallet and sign one message. No password, no forms, and nobody ever asks for your private key.
 
-**Connecting is not signing in.** A session starts only after you sign a SIWE message bound to
-`noklith.com`.
+</td>
+<td width="33%" valign="top">
 
-**Money is never a float.** Cents and token units are whole numbers end to end.
+### Refill in stablecoins
+Send USDT or USDC on Polygon or BNB Smart Chain. The card is loaded once the transfer is confirmed on chain.
 
-### Repositories
+</td>
+<td width="33%" valign="top">
 
-**[noklith](https://github.com/noklith/noklith)**: the website and dashboard, the iOS app (SwiftUI,
-iOS 17+) and the API, in one repository.
+### Spend anywhere online
+A virtual Visa issued through IZIPAY Business. Purchases and refunds appear in your activity on their own.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Website, iOS app and API live in one repository: <a href="https://github.com/noklith/noklith">noklith/noklith</a></sub>
+</div>
