@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="screens.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
+<img src="screens-2.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
 
 <br>
 
