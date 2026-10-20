@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<h1>
-  <img src="https://raw.githubusercontent.com/noklith/.github/main/profile/logo.png" alt="" width="44" align="center">&nbsp; Noklith
-</h1>
+<img src="https://raw.githubusercontent.com/noklith/.github/main/profile/logo.png" alt="Noklith logo" width="72">
+
+<h1>Noklith</h1>
 
 **A virtual Visa card you refill from your own crypto wallet.**
 
