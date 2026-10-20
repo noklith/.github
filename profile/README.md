@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/noklith/.github/main/profile/screens-2.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
+<img src="https://raw.githubusercontent.com/noklith/.github/main/profile/screens-3.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
 
 <br>
 
