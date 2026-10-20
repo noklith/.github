@@ -1,9 +1,9 @@
-<img src="banner.jpg" alt="Noklith card" width="100%">
+<img src="https://raw.githubusercontent.com/noklith/.github/main/profile/banner.jpg" alt="Noklith card" width="100%">
 
 <div align="center">
 
 <h1>
-  <img src="logo.png" alt="" width="44" align="center">&nbsp; Noklith
+  <img src="https://raw.githubusercontent.com/noklith/.github/main/profile/logo.png" alt="" width="44" align="center">&nbsp; Noklith
 </h1>
 
 **A virtual Visa card you refill from your own crypto wallet.**
@@ -22,7 +22,7 @@
 
 <br>
 
-<img src="screens-2.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
+<img src="https://raw.githubusercontent.com/noklith/.github/main/profile/screens-2.jpg" alt="Noklith iOS app: welcome, card, activity and dark mode" width="100%">
 
 <br>
 
